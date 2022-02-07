@@ -10,6 +10,7 @@ import SwiftUI
 @main
 struct LearningAppApp: App {
     @StateObject private var modelData = ModelData()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
