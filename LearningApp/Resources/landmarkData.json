@@ -5,8 +5,8 @@
         "city": "Twentynine Palms",
         "state": "California",
         "id": 1001,
-        "isFeatured": true,
-        "isFavorite": true,
+        "isFeatured": false,
+        "isFavorite": false,
         "park": "Joshua Tree National Park",
         "coordinates": {
             "longitude": -116.166868,
